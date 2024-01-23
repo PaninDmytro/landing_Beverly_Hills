@@ -40,7 +40,7 @@ Feel free to customize the content, style, and structure of the landing page to 
 
 ## Demo
 
-Check out the live demo of the MET landing page [here](http://127.0.0.1:5500/src/).
+Check out the live demo of the Beverly_Hills landing page [here](http://127.0.0.1:5500/src/).
 
 ## Contributing
 
